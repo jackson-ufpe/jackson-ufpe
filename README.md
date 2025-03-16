@@ -4,7 +4,7 @@
 - 💞️ gosto de Software Livre e sistemas GNU/Linux,
 - 📫 ainda prefiro usar o e-mail,
 - 😄 ele,
-- ⚡ converso sozinho no [literolinguista](https://literolinguista.gitlab.io)
+- ⚡ converso sozinho no [sitezinho](https://jackson.jesus.nom.br)
 
 <!---
 jackson-ufpe/jackson-ufpe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
